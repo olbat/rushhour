@@ -1,0 +1,8 @@
+Le fichier main est rushhour.RushHour.
+
+La syntaxe pour lancer le programme est :
+	java rushhour.RushHour (df|astar|idastar) puzzle_file.rh [idastar_total_cost_limit]
+
+Une interface graphique se lance pour montrer le résultat.
+
+Le programme rushhour.RushHourTest permet de tester toutes les heuristiques que l'on a implémenté sur un cas donné
